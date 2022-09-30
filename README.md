@@ -33,5 +33,5 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
 <div>
 <div align="center">
-  NumPy || Colab || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
+  NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
 </div> 
