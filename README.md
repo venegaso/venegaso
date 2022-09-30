@@ -22,7 +22,7 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
 </div>
 
 <div align="center">
-  CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
+  Python || CSS3 || HTML5 || Bootstrap || Git || GitHub 
 </div>
   
 
@@ -31,5 +31,5 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
 <div>
 <div align="center">
-  numPy || Colab || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
-  </div> 
+  numPy || Colab || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
+</div> 
