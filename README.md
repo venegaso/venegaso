@@ -19,12 +19,17 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
-  CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
-<div align="center">
-  
 </div>
+
+<div align="center">
+  CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
+</div>
+  
+
 <h2>Analítica de datos</h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
-  numPy || Colab || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
 <div>
+<div align="center">
+  numPy || Colab || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
+  </div> 
