@@ -13,22 +13,23 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"        height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
 
-<img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>
 
-<img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="50" height="50"/>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="50" height="50"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" atl="JQuery" width="55" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" atl="JQuery" width="55" height="45"/>
 </div>
 
-
-CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Numpy || Seaborn || PowerBI || SQL 
+<div align="center">
+  CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Numpy || Seaborn || PowerBI || SQL 
+<div>
