@@ -11,4 +11,4 @@ De manera autodidacta he ido aprendiendo otras tecnologias. Soy una persona auto
 
 <h2>Conocimientos</h2>
 
-CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Numpy
+CSS3 || HTML5 || Bootstrap || Git || GitHub || Python || Pandas || GeoPandas || Matplotlib || Numpy || PowerBI || SQL
