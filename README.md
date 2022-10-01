@@ -6,7 +6,7 @@ Sobre mi: Durante muchos años trabaje digitando información de transito que se
 A raíz de esto me empece a dar cuenta de los importante que es optimizar procesos y poder desarrollar mejores formas de capturar información, es por eso que me puse a estudiar de manera nocturna una tecnología en Desarrollo de Software la cual voy terminando.</br>
 De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona autodidacta que le apasiona la tecnología y aprender cosas nuevas cada día. Me gusta ser comprometido con lo que hago y meterle toda la energía a lo que me propongo.</br>
 
-📕 Estudie Analisis y visualización de datos con **Python** como parte del diplomado de **Machine Learning and Data Science** de la Universidad nacional de Colombia</br>
+<img src="https://github.com/venegaso/iconos/blob/main/unal.svg" title="Unal" alt="Unal" width="40" height="40"/> Estudie Analisis y visualización de datos con **Python** como parte del diplomado de **Machine Learning and Data Science** de la Universidad nacional de Colombia</br>
 📗 Estudio Tecnología y desarrollo de Software en la **ETITC**
 
 <h2>Conocimientos</h2>
