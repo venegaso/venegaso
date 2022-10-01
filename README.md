@@ -36,6 +36,7 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src="https://github.com/venegaso/iconos/blob/main/matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>
   <img src="https://github.com/venegaso/iconos/blob/main/seaborn.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/>
   <img src="https://github.com/venegaso/iconos/blob/main/powerbi.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>
+  <img src="https://github.com/venegaso/iconos/blob/main/sql.svg" title="SQL" alt="SQL" width="40" height="40"/>
 <div>
 <div align="center">
   NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
