@@ -19,6 +19,7 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  
 </div>
 
 <div align="center">
@@ -30,7 +31,8 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
-  <img src="https://github.com/venegaso/iconos/blob/main/colab.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/venegaso/iconos/blob/main/colab.svg" title="Colaboratory" alt="Colaboratory" width="40" height="40"/>
+  <img src="https://github.com/venegaso/iconos/blob/main/geopandas.svg" title="GeoPandas" alt="GeoPandas" width="40" height="40"/>
 <div>
 <div align="center">
   NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
