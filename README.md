@@ -29,8 +29,8 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
 <h2>Analítica de datos</h2>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+  <img src="https://github.com/venegaso/iconos/blob/main/colab.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
 <div>
 <div align="center">
   NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL 
