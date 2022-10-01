@@ -41,5 +41,5 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src="https://github.com/venegaso/iconos/blob/main/scikit-learn.svg" title="scikit-learn" alt="scikit-learn" width="40" height="40"/>
 <div>
 <div align="center">
-  NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL || Sckit-Learn
+  NumPy || Pandas || Colab || GeoPandas || Matplotlib || Seaborn || PowerBI || SQL || Scikit-learn
 </div> 
