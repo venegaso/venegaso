@@ -9,6 +9,8 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
 
 📕 Estudie "Analisis y visualización de datos con Python" como parte del diplomado de **Machine Learning and Data Science** de la **Universidad Nacional de Colombia**</br>
 📗 Estudio Tecnología y desarrollo de Software en la **ETITC**
+📗 Estudio Ingenieria de sistemas en la **ETITC**
+
 
 <h2>Conocimientos</h2>
 
