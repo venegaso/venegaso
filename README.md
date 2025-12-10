@@ -21,7 +21,7 @@ De manera autodidacta he ido aprendiendo otras tecnologías. Soy una persona aut
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"  title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   
 </div>
 
